@@ -8,6 +8,6 @@ kurulum için discord sunucuma gel discord.gg/289
 - pkg install python
 - pip install requests
 - pip install colorama
-- git clone 
+- git clone https://github.com/zeus289x/proxy.git
 - cd  proxy
 - python proxy.py
