@@ -1,5 +1,7 @@
 # Proxy Checker + Gen
 
+kurulum için discord sunucuma gel discord.gg/289 
+
 # TERMUX KURULUM
 - pkg update && pkg upgrade
 - pkg install python
